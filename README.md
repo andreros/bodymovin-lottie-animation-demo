@@ -1,4 +1,4 @@
-# Bodymovin / Lottie Animation Demo
+# Bodymovin / Lottie Animation Demo TEST
 
 Simple Bodymovin / Lottie animation loading in the browser.
 
