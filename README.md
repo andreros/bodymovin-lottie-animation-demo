@@ -1,6 +1,6 @@
 # Bodymovin / Lottie Animation Demo
 
-Simple Bodymovin / Lottie animation loading in the browser.
+Simple Bodymovin / Lottie animation loading in the browser. You can see this demo here [https://andreros.github.io/bodymovin-lottie-animation-demo/](https://andreros.github.io/bodymovin-lottie-animation-demo/).
 
 # Install notes
 
