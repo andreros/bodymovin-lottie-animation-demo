@@ -1,0 +1,16 @@
+html,
+body {
+    background-color: #000;
+    margin: 0;
+    overflow: hidden;
+}
+
+.animations {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.animation {
+    flex-basis: 50%;
+    height: 50vh;
+}

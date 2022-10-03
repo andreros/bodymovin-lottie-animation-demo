@@ -1,0 +1,13 @@
+{
+  "name": "bodymovin-lottie-animation-demo",
+  "version": "1.0.0",
+  "description": "Simple Bodymovin / Lottie animation loading in the browser.",
+  "scripts": {
+    "start": "http-server ./ --p 9000"
+  },
+  "author": "André Rosa <andreros@gmail.com>",
+  "license": "wtfpl",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
